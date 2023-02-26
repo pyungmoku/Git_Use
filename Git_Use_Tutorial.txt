@@ -4,3 +4,7 @@
 4. 명령프롬프트 창에서 $ git clone https://github.com/pyungmoku/"깃허브 레파지토리(ex. Git_Use)"
 5. 깃허브 로컬폴더에서 "깃허브 레파지토리(ex. Git_Use)" 폴더 확인 
 6. 명령프롬프트 창에서 "깃허브 레파지토리(ex. Git_Use)" 폴더 이동
+7. 깃허브 로컬폴더에 "깃허브 올릴 파일(ex.Git_Use_Tutorial.txt)" 넣기
+8. 명령프롬프트 창에서 "깃허브 올릴 파일(ex.Git_Use_Tutorial.txt)" 추가 $ git add Git_Use_Tutorial.txt
+9. 명령프롬프트 창에서 $ git commit -m "커밋 메세지(ex. 230217_v001)"
+10. 명령프롬프트 창에서 $ git push
